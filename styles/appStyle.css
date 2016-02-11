@@ -1,0 +1,55 @@
+
+div.page-body{
+	margin: 80px;
+}
+
+div.selects{
+	margin: 20px;
+}
+
+
+<!-- Modal -->
+div.modal-med {
+  max-width: 800px;
+}
+
+.modal {
+  display: block;
+}
+
+div.head-text{
+	text-align: center;
+}
+
+div.text-right{
+	text-align: right;
+}
+
+
+.table-striped>tbody>tr:nth-child(odd)>td{
+   background-color: #fff;
+ }
+
+ .table-striped>tbody>tr:nth-child(even)>td {
+   background-color: #eee;
+ }
+
+thead th {
+	background-color: #b3d4fc;
+	text-align: center;
+}
+
+td {
+	border:1px solid black;
+	padding:5px;
+	text-align: center;
+}
+
+a {	
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+}
+

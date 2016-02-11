@@ -1,0 +1,15 @@
+{
+	"status": "OK",
+	"payload": [{
+		"id": "b2595940-2b35-45a8-b387-639f58ea03e4",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2015-05-27T23:06:05+00:00",
+		"appModifiedDate": "2015-09-11T18:02:53+00:00",
+		"slotType": "ALL DAYS COPY",
+		"slotTypeDescription": "ALL DAYS COPY",
+		"fulfillmentSubType": "DELIVERY",
+		"slotTypeWindows": null
+	}]
+}

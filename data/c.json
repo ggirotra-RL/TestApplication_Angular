@@ -1,0 +1,125 @@
+{
+	"status": "OK",
+	"payload": [{
+		"id": "fd4878b5-bf4b-4fc2-a22a-f4d61f2d4779",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2015-06-11T02:04:59+00:00",
+		"appModifiedDate": "2015-12-03T16:18:55+00:00",
+		"slotType": "OTTAWA BRONZE 1",
+		"slotTypeDescription": "10 A.M. TO 9 P.M. SLOTS 7 DAYS PER WEEK",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "f5488247-f252-4486-a9f4-7f9d34688bf7",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2015-06-11T02:06:43+00:00",
+		"appModifiedDate": "2015-12-03T16:20:07+00:00",
+		"slotType": "OTTAWA BRONZE 2",
+		"slotTypeDescription": "9 A.M. TO 9 P.M. SLOTS 7 DAYS PER WEEK",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "4a99a535-4d91-4df9-aff3-6c4829025a19",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2016-01-22T20:27:33+00:00",
+		"appModifiedDate": "2016-02-03T10:15:41+00:00",
+		"slotType": "TORONTO GOLD 1",
+		"slotTypeDescription": "8 A.M. TO 10 P.M. SLOTS 7 DAYS PER WEEK",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "4b86ad70-1a02-4098-8f7f-fe2a73a8c2b0",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2016-01-25T20:15:44+00:00",
+		"appModifiedDate": "2016-01-25T20:15:44+00:00",
+		"slotType": "WEB OFFICE",
+		"slotTypeDescription": "WEB OFFICE 4 P.M. TO 6 P.M.",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "04c42654-2a3e-4245-9bec-9d1ec80a661d",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2015-06-11T02:08:32+00:00",
+		"appModifiedDate": "2015-11-10T23:29:39+00:00",
+		"slotType": "OTTAWA BRONZE 3",
+		"slotTypeDescription": "3 P.M. TO 9 P.M. SLOTS 7 DAYS PER WEEK",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "9fff0072-82d1-49d7-83a6-8b56e923f9f8",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2015-06-19T14:26:07+00:00",
+		"appModifiedDate": "2015-12-03T16:20:37+00:00",
+		"slotType": "OTTAWA BRONZE 5",
+		"slotTypeDescription": "M-F: 1 P.M. TO 9 P.M. SLOTS, S-S: 1 P.M. TO 6 P.M. SLOTS",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "e24c2696-8677-4937-b655-de0553ab3e3f",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2016-01-22T20:40:37+00:00",
+		"appModifiedDate": "2016-02-03T10:14:06+00:00",
+		"slotType": "TORONTO BRONZE 2",
+		"slotTypeDescription": "10 A.M. TO 10 P.M. SLOTS 7 DAYS PER WEEK",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "80ebd977-896c-4117-aa03-cd152a1d500a",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2016-01-25T20:16:46+00:00",
+		"appModifiedDate": "2016-01-25T20:16:46+00:00",
+		"slotType": "HOME OFFICE",
+		"slotTypeDescription": "HOME OFFICE 4 P.M. TO 6 P.M.",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "1310e7ab-1c66-4e65-bd07-30ea4225b0fc",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2015-06-11T02:02:37+00:00",
+		"appModifiedDate": "2015-12-03T16:21:09+00:00",
+		"slotType": "OTTAWA GOLD 1",
+		"slotTypeDescription": "8 A.M. TO 10 P.M. SLOTS 7 DAYS PER WEEK",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "17348f16-fd64-4c36-a336-8176f9857bd4",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2016-01-22T20:35:50+00:00",
+		"appModifiedDate": "2016-01-31T23:48:30+00:00",
+		"slotType": "TORONTO BRONZE 1",
+		"slotTypeDescription": "9 A.M. TO 9 P.M. SLOTS 7 DAYS PER WEEK",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}, {
+		"id": "b001dfb7-5f98-44a2-8b3a-f0eedb86c23b",
+		"active": true,
+		"createdBy": "DSS",
+		"modifiedBy": "DSS",
+		"appCreatedDate": "2016-02-03T15:46:16+00:00",
+		"appModifiedDate": "2016-02-03T15:46:16+00:00",
+		"slotType": "TORONTO BRONZE 3",
+		"slotTypeDescription": "10:30 A.M. TO 9:30 P.M. SLOTS 7 DAYS PER WEE",
+		"fulfillmentSubType": "REMOTE COLLECTION",
+		"slotTypeWindows": null
+	}]
+}

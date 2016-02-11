@@ -1,0 +1,34 @@
+{
+	"status": "OK",
+	"payload": [{
+		"id": "daded3da-8f1d-11e4-b116-123b93f75cba",
+		"active": true,
+		"createdBy": "LMS",
+		"modifiedBy": "LMS",
+		"appCreatedDate": "2015-01-08T00:40:05+00:00",
+		"appModifiedDate": "2015-01-08T00:40:05+00:00",
+		"paramName": "FULFILLMENT_SUB_TYPE",
+		"paramValue": "STORE COLLECTION",
+		"paramGroupName": null
+	}, {
+		"id": "daded51a-8f1d-11e4-b116-123b93f75cba",
+		"active": true,
+		"createdBy": "LMS",
+		"modifiedBy": "LMS",
+		"appCreatedDate": "2015-01-08T00:40:05+00:00",
+		"appModifiedDate": "2015-01-08T00:40:05+00:00",
+		"paramName": "FULFILLMENT_SUB_TYPE",
+		"paramValue": "REMOTE COLLECTION",
+		"paramGroupName": null
+	}, {
+		"id": "f4171a9c-002a-41c3-bfe0-ba561810c002",
+		"active": true,
+		"createdBy": "LMS",
+		"modifiedBy": "LMS",
+		"appCreatedDate": "2015-01-08T00:40:05+00:00",
+		"appModifiedDate": "2015-01-08T00:40:05+00:00",
+		"paramName": "FULFILLMENT_SUB_TYPE",
+		"paramValue": "DELIVERY",
+		"paramGroupName": null
+	}]
+}
